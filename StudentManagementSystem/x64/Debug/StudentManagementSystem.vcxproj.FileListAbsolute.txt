@@ -1,0 +1,7 @@
+C:\Users\rolan\source\repos\StudentManagementSystem\StudentManagementSystem\x64\Debug\StudentManagementSystem.vcxproj.AssemblyReference.cache
+C:\Users\rolan\source\repos\StudentManagementSystem\StudentManagementSystem\x64\Debug\StudentManagementSystem.MyForm.resources
+C:\Users\rolan\source\repos\StudentManagementSystem\StudentManagementSystem\x64\Debug\StudentManagementSystem.vcxproj.GenerateResource.cache
+C:\Users\rolan\source\repos\StudentManagementSystem\x64\Debug\StudentManagementSystem.exe.config
+C:\Users\rolan\source\repos\StudentManagementSystem\StudentManagementSystem\x64\Debug\StudentManagementSystem.exe.config
+C:\Users\rolan\source\repos\StudentManagementSystem\StudentManagementSystem\x64\Debug\StudentManagementSystem.vcxproj.CopyComplete
+C:\Users\rolan\source\repos\StudentManagementSystem\StudentManagementSystem\x64\Debug\StudentManagementSystem.exe
