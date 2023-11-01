@@ -1,2 +1,2 @@
 # Student-Management-System-C-
-Student management system built with C++ and mySQL
+Student management system built with C++ and SQL
